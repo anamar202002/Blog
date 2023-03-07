@@ -28,3 +28,11 @@ body
     font-family: "Arial";
 
 }
+#footer
+{
+    background-color: rgb(191, 127, 255);
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 0;
+    
+}
