@@ -7,5 +7,6 @@ Un blog increíble, ejercicio creado para el curso para el[ curso de Git y Githu
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Creado por mi :3
+* Manejo WSL
 
 Blog disponible en: [Blog](https://anamar202002.github.io/Blog/articulo.html)
