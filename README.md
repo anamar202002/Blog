@@ -6,7 +6,7 @@ Un blog increíble, ejercicio creado para el curso para el[ curso de Git y Githu
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
-* Creado por mi :3
+
 * Creado por mi :3
 * Manejo WSL
 * Disponible
