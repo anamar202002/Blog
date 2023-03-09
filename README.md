@@ -6,3 +6,5 @@ Un blog increíble, ejercicio creado para el curso para el[ curso de Git y Githu
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
+
+Blog disponible en: [Blog](https://anamar202002.github.io/Blog/articulo.html)
