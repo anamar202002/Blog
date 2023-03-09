@@ -5,4 +5,3 @@ Deja de versionar tus proyectos usando tu propio sistema de control de versiones
 - Utilizar Dominios Personalizados con GitHub Pages
 - Instalar Git en tu sistema operativo
 Master 1
-Master 2
